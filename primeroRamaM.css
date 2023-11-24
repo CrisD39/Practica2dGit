@@ -1,0 +1,11 @@
+/* Estilo básico */
+body {
+    background-color: green; /* Cambiar el color de fondo a verde */
+    font-size: 16px; /* Establecer el tamaño de fuente a 16 píxeles */
+}
+
+/* Estilo para un elemento específico, por ejemplo, un párrafo */
+p {
+    color: blue; /* Cambiar el color del texto a azul */
+    margin-bottom: 20px; /* Agregar un margen inferior de 20 píxeles */
+}
